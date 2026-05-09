@@ -12,7 +12,7 @@ Trabajo con HTML, CSS, SASS, Bootstrap, JavaScript y Figma, profundizando en Rea
 
 ## Proyectos destacados
 
-- **Fiduciaria del Norte** — Rediseño y desarrollo frontend del sitio institucional como única diseñadora y desarrolladora del proyecto. Sistema de componentes con atomic design en Figma e implementación con HTML, CSS, SASS, Bootstrap y JavaScript, integrado a Laravel/WordPress.
+- **Fiduciaria del Norte** — Rediseño y desarrollo frontend del sitio institucional como única diseñadora y desarrolladora del proyecto. Sistema de componentes con atomic design en Figma e implementación con HTML, CSS, SASS, Bootstrap y JavaScript, integrado a Laravel y WordPress en colaboración con el equipo de backend. Repositorio privado de la empresa (GitLab).
 
 - **ConekTIC** — Proyecto frontend con foco en accesibilidad y buenas prácticas de desarrollo web.
 
