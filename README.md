@@ -32,7 +32,7 @@ El cine, la lectura y la fotografía son mis intereses fuera del trabajo. Estudi
 
 ## Stack y herramientas
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,figma,ps,ai,pr,ae,lr,git,github,vscode&perline=8)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,figma,ps,ai,pr,ae,git,github,vscode&perline=8)
 
 ## ¿Charlamos?
 
