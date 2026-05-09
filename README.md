@@ -28,7 +28,7 @@ Trabajo con HTML, CSS, SASS, Bootstrap, JavaScript y Figma, profundizando en Rea
 
 ## Fuera del código
 
-El cine, la lectura y la fotografía son mi cable a tierra. Estudio Diseño de Imagen y Sonido en FADU-UBA, donde investigo cine argentino y latinoamericano contemporáneo.
+El cine, la lectura y la fotografía son mis intereses fuera del trabajo. Estudio Diseño de Imagen y Sonido en FADU-UBA, donde investigo cine argentino y latinoamericano contemporáneo.
 
 ## Stack y herramientas
 
