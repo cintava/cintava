@@ -30,6 +30,8 @@ Trabajo con HTML, CSS, SASS, Bootstrap, JavaScript y Figma, profundizando en Rea
 
 El cine, la lectura y la fotografía son mis intereses fuera del trabajo. Estudio Diseño de Imagen y Sonido en FADU-UBA, donde investigo cine argentino y latinoamericano contemporáneo.
 
+## Stack y herramientas
+
 <img width="823" height="188" alt="image" src="https://github.com/user-attachments/assets/40336e21-1bfa-41f6-abe0-1ce56abb2050" />
 
 
